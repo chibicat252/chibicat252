@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chibicat252
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning 5th grade
-- 💞️ I’m looking to collaborate on making games
- - ⚡ Fun fact:I have a twin brother whose name is godzilla252 
+- 🩷 I’m interested in software engineering
+- 💡 I’m currently learning 5th grade
+- 💻 I’m looking to collaborate on making games
+ -  Fun fact:I have a twin brother whose name is godzilla252 
 
 - 
 
